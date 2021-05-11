@@ -4,6 +4,7 @@
 
 [LINK TO THE SITE](https://realtime-chat-application.netlify.app/)
 
+![68747470733a2f2f692e7974696d672e636f6d2f76692f5a77464133594d666b6f632f6d617872657364656661756c742e6a7067](https://user-images.githubusercontent.com/79687388/117773286-c01ca880-b255-11eb-951e-7959add4462a.jpg)
 
 
 # Getting Started with Create React App
