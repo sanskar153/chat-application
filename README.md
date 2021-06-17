@@ -7,7 +7,8 @@
 
 [LINK FOR THE APP](https://projecct-chat-application.herokuapp.com)
 
-![Screenshot (24)](https://user-images.githubusercontent.com/79687388/118125950-46331d80-b415-11eb-82fe-8a0427e5f646.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/79687388/122339058-32239400-cf5e-11eb-9d1c-d10a34040cd1.png)
+
 
 # Installation
   
